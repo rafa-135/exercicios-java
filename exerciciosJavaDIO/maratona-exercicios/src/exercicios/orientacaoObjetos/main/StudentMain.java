@@ -1,6 +1,6 @@
-package exercicios.poo.main;
+package exercicios.orientacaoObjetos.main;
 
-import exercicios.poo.domain.Student;
+import exercicios.orientacaoObjetos.domain.Student;
 
 public class StudentMain {
     public static void main(String[] args) {

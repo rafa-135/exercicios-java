@@ -1,4 +1,4 @@
-package exercicios.poo.domain;
+package exercicios.orientacaoObjetos.domain;
 
 /*Crie uma classe Aluno com os seguintes atributos:
 
